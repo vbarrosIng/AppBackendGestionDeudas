@@ -1,0 +1,15 @@
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Application\obj\Debug\net8.0\ApiGestionDeudas.Application.csproj.AssemblyReference.cache
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Application\obj\Debug\net8.0\ApiGestionDeudas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Application\obj\Debug\net8.0\ApiGestionDeudas.Application.AssemblyInfoInputs.cache
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Application\obj\Debug\net8.0\ApiGestionDeudas.Application.AssemblyInfo.cs
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Application\obj\Debug\net8.0\ApiGestionDeudas.Application.csproj.CoreCompileInputs.cache
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Application\bin\Debug\net8.0\ApiGestionDeudas.Application.deps.json
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Application\bin\Debug\net8.0\ApiGestionDeudas.Application.dll
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Application\bin\Debug\net8.0\ApiGestionDeudas.Application.pdb
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Application\bin\Debug\net8.0\ApiGestionDeudas.Domain.dll
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Application\bin\Debug\net8.0\ApiGestionDeudas.Domain.pdb
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Application\obj\Debug\net8.0\ApiGestionDeudas.Application.csproj.CopyComplete
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Application\obj\Debug\net8.0\ApiGestionDeudas.Application.dll
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Application\obj\Debug\net8.0\refint\ApiGestionDeudas.Application.dll
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Application\obj\Debug\net8.0\ApiGestionDeudas.Application.pdb
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Application\obj\Debug\net8.0\ref\ApiGestionDeudas.Application.dll

@@ -1,0 +1,11 @@
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Domain\bin\Debug\net8.0\ApiGestionDeudas.Domain.deps.json
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Domain\bin\Debug\net8.0\ApiGestionDeudas.Domain.dll
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Domain\bin\Debug\net8.0\ApiGestionDeudas.Domain.pdb
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Domain\obj\Debug\net8.0\ApiGestionDeudas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Domain\obj\Debug\net8.0\ApiGestionDeudas.Domain.AssemblyInfoInputs.cache
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Domain\obj\Debug\net8.0\ApiGestionDeudas.Domain.AssemblyInfo.cs
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Domain\obj\Debug\net8.0\ApiGestionDeudas.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Domain\obj\Debug\net8.0\ApiGestionDeudas.Domain.dll
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Domain\obj\Debug\net8.0\refint\ApiGestionDeudas.Domain.dll
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Domain\obj\Debug\net8.0\ApiGestionDeudas.Domain.pdb
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Domain\obj\Debug\net8.0\ref\ApiGestionDeudas.Domain.dll

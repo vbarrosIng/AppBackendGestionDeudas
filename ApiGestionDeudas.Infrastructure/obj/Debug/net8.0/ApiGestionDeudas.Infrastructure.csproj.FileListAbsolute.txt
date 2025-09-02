@@ -1,0 +1,15 @@
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Infrastructure\bin\Debug\net8.0\ApiGestionDeudas.Infrastructure.deps.json
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Infrastructure\bin\Debug\net8.0\ApiGestionDeudas.Infrastructure.dll
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Infrastructure\bin\Debug\net8.0\ApiGestionDeudas.Infrastructure.pdb
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Infrastructure\bin\Debug\net8.0\ApiGestionDeudas.Domain.dll
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Infrastructure\bin\Debug\net8.0\ApiGestionDeudas.Domain.pdb
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Infrastructure\obj\Debug\net8.0\ApiGestionDeudas.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Infrastructure\obj\Debug\net8.0\ApiGestionDeudas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Infrastructure\obj\Debug\net8.0\ApiGestionDeudas.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Infrastructure\obj\Debug\net8.0\ApiGestionDeudas.Infrastructure.AssemblyInfo.cs
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Infrastructure\obj\Debug\net8.0\ApiGestionDeudas.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Infrastructure\obj\Debug\net8.0\ApiGestionDeudas.Infrastructure.csproj.CopyComplete
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Infrastructure\obj\Debug\net8.0\ApiGestionDeudas.Infrastructure.dll
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Infrastructure\obj\Debug\net8.0\refint\ApiGestionDeudas.Infrastructure.dll
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Infrastructure\obj\Debug\net8.0\ApiGestionDeudas.Infrastructure.pdb
+C:\Users\vbarr\source\repos\ApiGestionDeudas.Api\ApiGestionDeudas.Infrastructure\obj\Debug\net8.0\ref\ApiGestionDeudas.Infrastructure.dll

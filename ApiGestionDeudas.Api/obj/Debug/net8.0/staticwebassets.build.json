@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "e4xX2xIaU4P9LjtabXAdNawlWLWAReKkYmzthUTG4f8=",
+  "Source": "ApiGestionDeudas.Api",
+  "BasePath": "_content/ApiGestionDeudas.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

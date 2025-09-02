@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2PAp/zKik+pY/JB6ZayG3TePzMFtVWTGvKLKvb9/YcptfFMR/RmlM1Oy6Rm9Kbcg+NPHyrW20LEvLWorA+qxCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vbarr\\source\\repos\\ApiGestionDeudas.Api\\ApiGestionDeudas.Application\\ApiGestionDeudas.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vbarr\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
